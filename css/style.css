@@ -1,0 +1,18 @@
+.header {
+    background: #ce800b;
+    height: 60px;
+}
+
+.picture {
+    width: 250px;
+    height: 250px;
+}
+
+.citata {
+    background-color: #ce800b;
+}
+
+footer {
+    background-color: #0ba4e0;
+    height: 300px;
+}
